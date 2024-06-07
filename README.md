@@ -2,7 +2,12 @@
 
 ## About
 
-Managing your daily routines and building good habits has never been easier. This app provides a simple and effective way to keep track of your habits. It includes a feature to add, edit, delete, and stop habits.
+Managing your daily routines and building good habits has never been easier. This app provides a simple and effective way to keep track of your habits. It includes features like adding, editing, deleting, and stopping habits.
+
+![image](https://github.com/miglemr/habit-tracking/assets/113340648/dc6376bd-8ace-47e6-8a42-fd56ca30fa9d)
+
+![image](https://github.com/miglemr/habit-tracking/assets/113340648/12f7dcf6-68e9-4b8d-b1fd-f609e0469171)
+
 
 ## Built With
 
